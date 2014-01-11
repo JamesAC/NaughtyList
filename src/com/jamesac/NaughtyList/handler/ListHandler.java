@@ -1,4 +1,4 @@
-package com.jamesac.thing.handler;
+package com.jamesac.NaughtyList.handler;
 
 import java.awt.Graphics;
 import java.awt.event.MouseEvent;
@@ -6,8 +6,8 @@ import java.awt.event.MouseEvent;
 import javax.swing.JFileChooser;
 import javax.swing.UIManager;
 
-import com.jamesac.thing.Controller;
-import com.jamesac.thing.NameList;
+import com.jamesac.NaughtyList.Controller;
+import com.jamesac.NaughtyList.NameList;
 
 public class ListHandler {
 

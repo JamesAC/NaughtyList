@@ -1,4 +1,4 @@
-package com.jamesac.thing;
+package com.jamesac.NaughtyList;
 
 import java.awt.geom.Rectangle2D;
 import java.util.Random;

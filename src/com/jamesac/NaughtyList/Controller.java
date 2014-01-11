@@ -1,4 +1,4 @@
-package com.jamesac.thing;
+package com.jamesac.NaughtyList;
 
 import java.awt.Canvas;
 import java.awt.Color;
@@ -13,9 +13,8 @@ import java.awt.event.MouseListener;
 
 import javax.swing.JFrame;
 
-import com.jamesac.thing.handler.ListHandler;
-import com.jamesac.thing.handler.Middle;
-import com.jamesac.thing.handler.ThreeList;
+import com.jamesac.NaughtyList.handler.ListHandler;
+import com.jamesac.NaughtyList.handler.Middle;
 
 public class Controller extends Canvas implements MouseListener {
 	private static final long serialVersionUID = 1L;

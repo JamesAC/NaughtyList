@@ -1,5 +1,4 @@
-package com.jamesac.thing;
-
+package com.jamesac.NaughtyList;
 
 public class Main implements Runnable {
 	private Thread thread;

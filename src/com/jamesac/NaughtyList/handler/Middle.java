@@ -1,4 +1,4 @@
-package com.jamesac.thing.handler;
+package com.jamesac.NaughtyList.handler;
 
 import java.awt.Color;
 import java.awt.Font;
@@ -7,9 +7,9 @@ import java.awt.Rectangle;
 import java.awt.event.MouseEvent;
 import java.awt.geom.Rectangle2D;
 
-import com.jamesac.thing.Controller;
-import com.jamesac.thing.Icon;
-import com.jamesac.thing.Student;
+import com.jamesac.NaughtyList.Controller;
+import com.jamesac.NaughtyList.Icon;
+import com.jamesac.NaughtyList.Student;
 
 
 public class Middle extends ListHandler{

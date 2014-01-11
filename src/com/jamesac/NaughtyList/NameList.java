@@ -1,4 +1,4 @@
-package com.jamesac.thing;
+package com.jamesac.NaughtyList;
 
 import java.io.BufferedReader;
 import java.io.IOException;

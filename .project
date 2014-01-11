@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>Thing</name>
+	<name>NaughtyList</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -18,7 +18,7 @@
 		<link>
 			<name>res</name>
 			<type>2</type>
-			<location>H:/Documents/~Current/Programming/Eclipse/Thing/res</location>
+			<location>H:/Documents/~Current/Programming/Eclipse/NaughtyList/res</location>
 		</link>
 	</linkedResources>
 </projectDescription>
