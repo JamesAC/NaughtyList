@@ -56,13 +56,13 @@ public class Middle extends ListHandler {
     for (int good = 0; good < nGood; good++) {
       g.drawImage(Icon.happy.image,
                   screen.width / 2 - Icon.happy.WIDTH * (good + 2) - 20,
-                  100 + stringHeight * (num - 1),
+                  109 + stringHeight * (num - 1),
                   screen);
     }
     for (int bad = 0; bad < nBad; bad++) {
       g.drawImage(Icon.sad.image,
                   screen.width / 2 + Icon.sad.WIDTH * (bad + 1) + 20,
-                  100 + stringHeight * (num - 1),
+                  109 + stringHeight * (num - 1),
                   screen);
     }
   }
